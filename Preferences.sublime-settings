@@ -1,0 +1,31 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": "true",
+	"ignored_packages":
+	[
+		"Diffy",
+		"Google Closure Library snippets",
+		"StyleSorter",
+		"SublimeLinter",
+		"SublimeLinter-contrib-stylelint",
+		"Vintage"
+	],
+	"margin": 0,
+	"show_encoding": true,
+	"show_tab_close_buttons": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": "true"
+}

@@ -1,0 +1,29 @@
+{
+  // Custom snippets definitions, as per https://github.com/emmetio/emmet/blob/master/snippets.json
+  // "snippets": {
+    // "html": {
+    //  "abbreviations": {
+    //    "example": "<div class='example' title='Custom element example'>"
+    //  }
+    // }
+  // },
+
+  // Emmet preferences
+  // List of all available preferences:
+  // http://docs.emmet.io/customization/preferences/
+  "preferences": {
+    "sass.propertyEnd": ";"
+    // "css.valueSeparator": ": ",
+    // "css.propertyEnd": ";"
+  },
+
+  // Output profiles for syntaxes
+  // http://docs.emmet.io/customization/syntax-profiles/
+  // "syntaxProfiles": {
+    // Enable XHTML dialect for HTML syntax
+    // "html": "xhtml"
+    //
+    // Write chained CSS abbreviations on single line:
+    // "css": "css_line"
+  // }
+}
